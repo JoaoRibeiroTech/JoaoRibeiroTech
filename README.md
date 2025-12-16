@@ -9,12 +9,15 @@ I am a **Software Engineering** student focused on creating efficient solutions 
 - [cite_start]🛡️ Currently undergoing active training in the **Cybersecurity** track through the "Hackers do Bem" program[cite: 13, 26].
 - [cite_start]💡 "Fast Learner" with strong analytical capacity and a focus on teamwork[cite: 10, 30, 31].
 
-### 🛠️ Technologies & Skills
-- [cite_start]**Languages:** Python (Advanced), Java (Basic), HTML, CSS, and JavaScript[cite: 28].
-- [cite_start]**Data Science:** Solid knowledge in data analysis and Object-Oriented Programming[cite: 13, 29].
-- [cite_start]**Tools:** Git and GitHub (Version control and Open Source collaboration)[cite: 6, 28].
-- [cite_start]**Languages:** Portuguese (Native), English (Intermediate), and Spanish (Basic)[cite: 33, 34, 35].
+### 🖥️  Technologies & Skills
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+          
+          
 ### 📊 Highlighted Projects
 * [cite_start]**Management System:** Development of a functional tool in Python as part of a collaborative programming project[cite: 18, 19].
 * [cite_start]**Open Source Contribution:** Translation of technical documentation on GitHub, demonstrating collaboration skills[cite: 20].
@@ -25,9 +28,19 @@ I am a **Software Engineering** student focused on creating efficient solutions 
 - [cite_start]Python with Object-Oriented Programming (25h)[cite: 24].
 - [cite_start]Programming Beginner (31h)[cite: 24].
 
----
 
-### 📫 Connect with me:
-- [cite_start]**LinkedIn:** [linkedin.com/in/joão-gabriel-ribeiro](https://www.linkedin.com/in/joão-gabriel-ribeiro) [cite: 2]
-- [cite_start]**Email:** jglspribeiro@gmail.com [cite: 2]
-- [cite_start]**GitHub:** [github.com/JoaoRibeiroTech](https://github.com/JoaoRibeiroTech) [cite: 2]
+### 📫 Contacts
+<div>
+<a href="www.linkedin.com/in/joão-gabriel-ribeiro" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+
+
+![Snake animation](https://github.com/JoaoRibeiroTech/JoaoRibeiroTech/blob/output/github-contribution-grid-snake.svg)
