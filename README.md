@@ -4,10 +4,10 @@
 I am a **Software Engineering** student focused on creating efficient solutions through programming and data science. I am constantly seeking to evolve my technical skills and collaborate on projects that generate real impact.
 
 ### 🚀 About Me
--🎓 Undergraduate **Software Engineering** student at UVA - Universidade Veiga de Almeida (Expected Graduation: 2029)
--🐍 **Python** enthusiast with solid theoretical and practical knowledge in **Data Science**.
--🛡️ Currently undergoing active training in the **Cybersecurity** track through the "Hackers do Bem" program.
--💡 "Fast Learner" with strong analytical capacity and a focus on teamwork.
+- 🎓 Undergraduate **Software Engineering** student at UVA - Universidade Veiga de Almeida (Expected Graduation: 2029).
+- 🐍 **Python** enthusiast with solid theoretical and practical knowledge in **Data Science**.
+- 🛡️ Currently undergoing active training in the **Cybersecurity** track through the "Hackers do Bem" program.
+- 💡 "Fast Learner" with strong analytical capacity and a focus on teamwork.
 
 ### 🖥️  Technologies & Skills
 
@@ -17,7 +17,9 @@ I am a **Software Engineering** student focused on creating efficient solutions 
           
 ### 📊 Highlighted Projects
 **Management System:** Development of a functional tool in Python as part of a collaborative programming project.
+
 **Open Source Contribution:** Translation of technical documentation on GitHub, demonstrating collaboration skills
+
 **Basic Website:** Creation of a web page focused on Web Introduction fundamentals using HTML and CSS.
 
 ### 📜 Certifications (Alura)
