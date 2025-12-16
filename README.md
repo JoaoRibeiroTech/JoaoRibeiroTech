@@ -21,9 +21,9 @@ I am a **Software Engineering** student focused on creating efficient solutions 
 **Basic Website:** Creation of a web page focused on Web Introduction fundamentals using HTML and CSS.
 
 ### 📜 Certifications (Alura)
-- [cite_start]Python for Data Science (Advanced - 86h).
-- [cite_start]Python with Object-Oriented Programming (25h).
-- [cite_start]Programming Beginner (31h).
+- Python for Data Science (Advanced - 86h).
+- Python with Object-Oriented Programming (25h).
+- Programming Beginner (31h).
 
 
 ### 📫 Contacts
@@ -38,7 +38,3 @@ I am a **Software Engineering** student focused on creating efficient solutions 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRibeiroTech&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoRibeiroTech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-#
-![Snake animation](https://github.com/JoaoRibeiroTech/JoaoRibeiroTech/blob/output/github-contribution-grid-snake.svg)
-
