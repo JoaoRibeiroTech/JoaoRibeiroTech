@@ -1,13 +1,15 @@
 # :wave: Hello! Welcome to my Github profile.
 ## My name is João Gabriel Ribeiro and my nickname is "JoaoRibeiroTech"!
 
-I am a **Software Engineering** student focused on creating efficient solutions through programming and data science. I am constantly seeking to evolve my technical skills and collaborate on projects that generate real impact.
+I am a **Software Engineering** student focused on **Back-End development with Python (Flask)** and **Cybersecurity**, constantly improving my skills to build efficient, secure, and scalable solutions.
 
 ### 🚀 About Me
-- 🎓 Undergraduate **Software Engineering** student at UVA - Universidade Veiga de Almeida (Expected Graduation: 2029).
-- 🐍 **Python** enthusiast with solid theoretical and practical knowledge in **Data Science**.
-- 🛡️ Currently undergoing active training in the **Cybersecurity** track through the "Hackers do Bem" program.
-- 💡 "Fast Learner" with strong analytical capacity and a focus on teamwork.
+-🎓 Software Engineering student at **UVA – Universidade Veiga de Almeida** (Expected graduation: 2029)
+-💻 Focused on **Back-End development using Python (Flask)**
+-🔐 Currently studying **Cybersecurity** through the Hackers do Bem program
+-📚 Continuously learning through platforms like **Alura** and **Cisco/SENAC** (CCST)
+-🎯 Seeking my **first internship opportunity** to apply my technical knowledge in real-world projects
+-🧠 Strong analytical thinking, proactivity, and attention to detail
 
 ### 🖥️  Technologies & Skills
 
@@ -15,17 +17,15 @@ I am a **Software Engineering** student focused on creating efficient solutions 
           
           
           
-### 📊 Highlighted Projects
-**Management System:** Development of a functional tool in Python as part of a collaborative programming project.
-
-**Open Source Contribution:** Translation of technical documentation on GitHub, demonstrating collaboration skills
-
-**Basic Website:** Creation of a web page focused on Web Introduction fundamentals using HTML and CSS.
+### 🎓 Education
+Bachelor's Degree in Software Engineering
+UVA – Universidade Veiga de Almeida
+Expected Graduation: December 2029
 
 ### 📜 Certifications (Alura)
-- Python for Data Science (Advanced - 86h).
-- Python with Object-Oriented Programming (25h).
-- Programming Beginner (31h).
+- 🐍 Back-End Development with Python – Alura (2026)
+- 🌐 CCST Cisco – SENAC (in progress)
+- 🪖 Ethical Hacker Training – Brazilian Army & Cisco Networking Academy (in progress)
 
 
 ### 📫 Contacts
