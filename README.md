@@ -25,7 +25,7 @@ Expected Graduation: December 2029
 ### 📜 Certifications (Alura)
 - 🐍 Back-End Development with Python – Alura (2026)
 - 🌐 CCST Cisco – SENAC (in progress)
-- 🪖 Ethical Hacker Training – Brazilian Army & Cisco Networking Academy (in progress)
+- 🪖 Ethical Hacker Training – Brazilian Army & Cisco Networking Academy (2026)
 
 
 ### 📫 Contacts
